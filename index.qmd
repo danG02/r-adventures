@@ -1,0 +1,16 @@
+---
+title: "R Adventures"
+format:
+  html:
+    toc: false
+---
+
+Welcome to **R Adventures**!  
+The purpose of this blog is to try out packages in R with datasets so I can learn as I go.  
+Each post is written in a tutorial style so you can follow along too.
+
+## Latest Posts
+- [📊 Exploring `{gt}` for beautiful tables](posts/gt-table-demo.qmd)
+
+
+

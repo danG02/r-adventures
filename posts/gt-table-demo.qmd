@@ -1,0 +1,11 @@
+---
+title: "Exploring gt for Beautiful Tables"
+date: "2025-09-10"
+---
+
+Today I tried out the `{gt}` package, which is amazing for making clean, presentation-ready tables in R.
+
+```{r}
+library(gt)
+gt(head(mtcars))
+```

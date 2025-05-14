@@ -1,0 +1,6 @@
+---
+title: "About"
+---
+
+I'm just a data scientist who is curious and wants to document my learning journey.  
+This blog is a place to explore, test, and grow—one R package at a time.
