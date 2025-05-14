@@ -1,0 +1,32 @@
+# R and RStudio files
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Quarto cache (optional if you're caching computations)
+_cache/
+/.quarto/
+
+# Quarto render output
+*.html
+*.log
+
+# Mac system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+~$*
+
+# If you're using quarto preview
+_site/
+
+# If you're using the RStudio project file (keep .Rproj itself tracked)
+.Rproj.user/
+
+# Python virtualenv if using Python + Quarto
+.venv/
+env/
+__pycache__/

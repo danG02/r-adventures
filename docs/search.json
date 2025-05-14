@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m just a data scientist who is curious and wants to document my learning journey.\nThis blog is a place to explore, test, and grow—one R package at a time."
+  },
+  {
+    "objectID": "posts/gt-table-demo.html",
+    "href": "posts/gt-table-demo.html",
+    "title": "Exploring gt for Beautiful Tables",
+    "section": "",
+    "text": "Today I tried out the {gt} package, which is amazing for making clean, presentation-ready tables in R.\n\nlibrary(gt)\ngt(head(mtcars))\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\nwt\nqsec\nvs\nam\ngear\ncarb\n\n\n\n\n21.0\n6\n160\n110\n3.90\n2.620\n16.46\n0\n1\n4\n4\n\n\n21.0\n6\n160\n110\n3.90\n2.875\n17.02\n0\n1\n4\n4\n\n\n22.8\n4\n108\n93\n3.85\n2.320\n18.61\n1\n1\n4\n1\n\n\n21.4\n6\n258\n110\n3.08\n3.215\n19.44\n1\n0\n3\n1\n\n\n18.7\n8\n360\n175\n3.15\n3.440\n17.02\n0\n0\n3\n2\n\n\n18.1\n6\n225\n105\n2.76\n3.460\n20.22\n1\n0\n3\n1"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R Adventures",
+    "section": "",
+    "text": "Welcome to R Adventures!\nThe purpose of this blog is to try out packages in R with datasets so I can learn as I go.\nEach post is written in a tutorial style so you can follow along too."
+  },
+  {
+    "objectID": "index.html#latest-posts",
+    "href": "index.html#latest-posts",
+    "title": "R Adventures",
+    "section": "Latest Posts",
+    "text": "Latest Posts\n\n📊 Exploring {gt} for beautiful tables"
+  }
+]
