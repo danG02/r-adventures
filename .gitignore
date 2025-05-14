@@ -9,8 +9,10 @@ _cache/
 /.quarto/
 
 # Quarto render output
-*.html
 *.log
+
+# Do not Ignore files in docs/ folder
+!docs/**
 
 # Mac system files
 .DS_Store
